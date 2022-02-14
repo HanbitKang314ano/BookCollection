@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "test-app",
+=======
+  "name": "book-collection-solution",
+>>>>>>> run_test
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
